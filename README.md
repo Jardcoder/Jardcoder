@@ -1,6 +1,6 @@
 I build, test, and document technology, tools, apps, AI, hardware, 3D printing, design, and digital culture through real practice.
 
-Jardium is my workshop; I sign the work as Jorge Alberto Rodriguez.
+Jardium is my workshop; I sign the work as Jorge Alberto Rodríguez.
 
 **From my workshop**
 
